@@ -1,11 +1,12 @@
-# **Praktukum 1 : HTML Dasar**
-<br/>
+# **Praktukum 1 : HTML Dasar**<br/>
+
   + Buka VSCode dan Browser apapun
 
   ![Web 1 0](https://user-images.githubusercontent.com/56438848/112752361-ef0bf180-8ffc-11eb-988a-a7aa0431b488.jpg)
 
 
   + Setelah VSCode terbuka, buat file baru dengan nama lab1_tag_dasar.html +
+
 
   + Tambahkan Tag dasar dokumen HTML dan save
 
@@ -21,8 +22,8 @@
    
    ![Web 1](https://user-images.githubusercontent.com/56438848/112752710-80c82e80-8ffe-11eb-8990-45315e8f004d.jpg)
    
-   <br/>
-   <br/>
+
+
 # **Menambahkan Judul****
    
    Penulisan judul dapat dilakukan sebelum menulis paragraf, biasanya ditandai dengan kode < h* > atau Header.<br/>
@@ -32,7 +33,7 @@
    
    
    
-# **Membuat Paragraf**
+<br/># **Membuat Paragraf**
 
    Membuat paragraf, dapat diketikkan setelah perintah < body > dan diawali dengan perintah < p > yang artinya Paragraf.<br/>
    Seperti contoh dibawah ini
@@ -54,8 +55,8 @@
    
    ![Web 5 Format Teks](https://user-images.githubusercontent.com/56438848/112753610-5d9f7e00-9002-11eb-88ba-f5aa7f037faa.jpg)
    
-   <br/>
-   <br/>
+
+
 # **Menyisipkan Gambar**
    
    Siapkan satu gambar yang akan disisipkan atau dimasukkan pada halaman web dalam satu folder dengan file *.html yang tadi dibuat.<br/>
@@ -69,8 +70,8 @@
    
    ![Web 6 1 Menyisipkan Gambar](https://user-images.githubusercontent.com/56438848/112753796-62186680-9003-11eb-8b12-5d90c48adb0e.jpg)
    
-   <br/>
-   <br/>
+
+
 # **Menambahkan Hyperlink**
    
    *Hyperlink* merupakan suatu teks yang dapat mengarahkan ke tampilan dokumen atau halaman tertentu.<br/>
