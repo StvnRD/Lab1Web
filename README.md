@@ -73,3 +73,11 @@
    
 # **Menambahkan Hyperlink**
    
+   *Hyperlink* merupakan suatu teks yang dapat mengarahkan ke tampilan dokumen atau halaman tertentu.<br/>
+   
+   *Peletakkan kode untuk penulisan *Hyperlink* sesuai selera masing-masing, disini saya menaruhnya di paling atas, supaya lebih mudah terlihat.*<br/>
+   
+   Cara menambahkannya adalah sebagai berikut:
+   
+  ![Web 7 Menambahkan Hyperlinks](https://user-images.githubusercontent.com/56438848/112754064-9c363800-9004-11eb-8324-0433be5fe246.jpg)
+  
