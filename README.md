@@ -24,7 +24,7 @@
    
 
 
-# **Menambahkan Judul****
+# **Menambahkan Judul**
    
    Penulisan judul dapat dilakukan sebelum menulis paragraf, biasanya ditandai dengan kode < h* > atau Header.<br/>
    (bintang pada < h* > merupakan contoh penomoran pada judul/header)
@@ -33,7 +33,7 @@
    
    
    
-<br/># **Membuat Paragraf**
+# **Membuat Paragraf**
 
    Membuat paragraf, dapat diketikkan setelah perintah < body > dan diawali dengan perintah < p > yang artinya Paragraf.<br/>
    Seperti contoh dibawah ini
